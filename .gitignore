@@ -1,0 +1,4 @@
+#Ignore node library and IntelliJ project files
+node_modules
+*.iml
+.idea
